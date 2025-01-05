@@ -1,0 +1,2 @@
+# array
+by using js
